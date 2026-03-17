@@ -2,13 +2,13 @@
 
 Este projeto foi desenvolvido como atividade prática para a disciplina de **Engenharia de Software II** no **IFPA - Campus Tucuruí**. O objetivo central é demonstrar a evolução de um sistema de software partindo de uma abordagem monolítica para uma arquitetura modularizada.
 
-## 🚀 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Demonstrar as deficiências de um código altamente acoplado (monolítico) e como a aplicação de princípios de design de software (como **SOLID** e **SoC**) pode transformar um sistema em uma estrutura escalável e de fácil manutenção.
 
 ---
 
-## 🏗️ Construção e Conceitos Aplicados
+##  Construção e Conceitos Aplicados
 
 O sistema simula um fluxo de registro de usuários, incluindo validação, persistência e notificação.
 
@@ -27,7 +27,7 @@ O código foi refatorado aplicando o princípio de **Separação de Preocupaçõ
 
 ---
 
-## 🧩 Elementos Reutilizáveis
+## Elementos Reutilizáveis
 
 Identificamos componentes que podem ser reaproveitados em outros projetos:
 
@@ -37,7 +37,7 @@ Identificamos componentes que podem ser reaproveitados em outros projetos:
 
 ---
 
-## 📈 Síntese Técnica
+## Síntese Técnica
 
 | Conceito | Aplicação Prática |
 | :--- | :--- |
